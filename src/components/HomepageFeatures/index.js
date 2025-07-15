@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Future Naval Officer',
-    imgSrc: require('@site/static/img/carlVinson.jpg'),
+    imgSrc: require('@site/static/img/carlVinson.jpg').default,
     alt: 'Ben on the USS Carl Vinson departing Pearl Harbor, HI',
     description: (
       <>
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Engineer',
-    imgSrc: require('@site/static/img/capstoneDay2025.jpg'),
+    imgSrc: require('@site/static/img/capstoneDay2025.jpg').default,
     alt: 'Ben in front of his research poster on Astramiz in May, 2025',
     description: (
       <>
@@ -27,7 +27,7 @@ const FeatureList = [
   },
   {
     title: 'Scholar',
-    imgSrc: require('@site/static/img/waldenPond.jpg'),
+    imgSrc: require('@site/static/img/waldenPond.jpg').default,
     alt: 'A sign with a quote from Henry David Thoreau\'s Walden',
     description: (
       <>
