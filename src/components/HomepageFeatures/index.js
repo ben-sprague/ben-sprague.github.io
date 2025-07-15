@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Future Naval Officer',
-    imgSrc: require('@site/static/img/carlVinzon.jpg'),
+    imgSrc: require('@site/static/img/carlVinson.jpg'),
     description: (
       <>
         Upon graduation from the US Naval Academy in May, 2026, I will comission as an
