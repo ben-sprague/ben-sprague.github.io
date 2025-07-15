@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Future Naval Officer',
-    imgSrc: require('@site/static/img/carlVinson.jpg').default,
+    imgSrc: require('@site/static/img/carlVinson.jpg'),
     alt: 'Ben on the USS Carl Vinson departing Pearl Harbor, HI',
     description: (
       <>
