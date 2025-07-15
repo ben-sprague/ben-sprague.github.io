@@ -4,33 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Future Naval Officer',
-    Svg: require('@site/static/img/carlVinson.jpg').default,
+    title: 'Easy to Use',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Upon graduation from the US Naval Academy in May, 2026, I will comission as an
-        active duty submarine officer in the US Navy.
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: 'Engineer',
-    Svg: require('@site/static/img/capstoneDay2025.jpg').default,
+    title: 'Focus on What Matters',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        I am currently studying Aerospace Engineering, but I have always held an affinity for 
-        the ocean and hope to study Physical Oceanography in graduate school.
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
   {
-    title: 'Scholar',
-    Svg: require('@site/static/img/waldenPond.jpg').default,
+    title: 'Powered by React',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        To be a successful scientest, engineer, and officer, I belive it is imparative to be
-        well read and a skilled writer. I read a wide variety of works, but I particularly
-        enjoy scientific memiors and transcendentalism works.
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
       </>
     ),
   },
