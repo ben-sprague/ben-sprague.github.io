@@ -5,7 +5,8 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Future Naval Officer',
-    imgSrc: require('@site/static/img/carlVinson.jpg'),
+    imgSrc: '@site/static/img/carlVinson.jpg',
+    alt: 'Ben on the USS Carl Vinson departing Pearl Harbor, HI',
     description: (
       <>
         Upon graduation from the US Naval Academy in May, 2026, I will comission as an
@@ -15,7 +16,8 @@ const FeatureList = [
   },
   {
     title: 'Engineer',
-    imgSrc: require('@site/static/img/capstoneDay2025.jpg'),
+    imgSrc: '@site/static/img/capstoneDay2025.jpg',
+    alt: 'Ben in front of his research poster on Astramiz in May, 2025',
     description: (
       <>
         I am currently studying Aerospace Engineering, but I have always held an affinity for 
@@ -26,6 +28,7 @@ const FeatureList = [
   {
     title: 'Scholar',
     imgSrc: require('@site/static/img/waldenPond.jpg'),
+    alt: 'A sign with a quote from Henry David Thoreau\'s Walden',
     description: (
       <>
         To be a successful scientest, engineer, and officer, I belive it is imparative to be
@@ -40,7 +43,7 @@ function Feature({imgSrc, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={imgSrc} className={styles.featureSvg} />
+        <img src={imgSrc} className={styles.featureSvg} alt={alt} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
