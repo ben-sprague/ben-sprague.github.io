@@ -80,7 +80,7 @@ const config = {
         },
         items: [
           {
-            to: '/cv'
+            to: '/cv',
             position: 'left',
             label: 'CV',
           },
