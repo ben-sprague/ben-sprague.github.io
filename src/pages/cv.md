@@ -71,8 +71,7 @@ human settlements.
 
 # Publications
 1. R. M. Killen, B. T. Sprague, and W. M. Farrell, “Temporary atmospheres produced by human activities
-on the moon,” Advances in Space Research, vol. 74, no. 11, pp. 6158–6171, 2024, issn: 0273-1177. doi:
-<https://doi.org/10.1016/j.asr.2024.08.042>.
+on the moon,” Advances in Space Research, vol. 74, no. 11, pp. 6158–6171, 2024, issn: 0273-1177. doi: [https://doi.org/10.1016/j.asr.2024.08.042](https://doi.org/10.1016/j.asr.2024.08.042).
 
 # Research Interests
 __Ocean Exploration, Sailing Vessels, Unmanned Maritime Systems, Oceanic Data Collection Methods, Polar Studies, Climate Resiliency__
