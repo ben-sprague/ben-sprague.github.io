@@ -127,7 +127,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Ben Sprague. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ben Sprague. Built with Docusaurus.
+        <br>All views expressed are my own, not those of the USNA, USN, or DoD`,
       },
       prism: {
         theme: prismThemes.github,
