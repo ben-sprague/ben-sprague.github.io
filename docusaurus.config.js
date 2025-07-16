@@ -80,8 +80,7 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: '/cv'
             position: 'left',
             label: 'CV',
           },
