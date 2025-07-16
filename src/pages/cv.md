@@ -1,7 +1,7 @@
 Ben Sprague
 ==============
 
-[See full CV](/static/cv.pdf)
+[See full CV](@site/static/cv.pdf)
 
 # Education
 
